@@ -15,9 +15,12 @@ fully dynamic and our backend team will replace firebase with our backend server
 1. React-native-elements
 https://react-native-training.github.io/react-native-elements/
 
-Please watch this CSS tutorial befoer work on React Native CSS
-It is slightly different from regular CSS or SCSS or LESS.
-https://www.youtube.com/watch?v=-xFF5KF-KpE&list=PL7D-0n1z1EbhkundIsOBaN_mlLvV4_hyO
+2. Please watch this CSS tutorial befoer work on React Native CSS
+   It is slightly different from regular CSS or SCSS or LESS.
+   https://www.youtube.com/watch?v=-xFF5KF-KpE&list=PL7D-0n1z1EbhkundIsOBaN_mlLvV4_hyO
+
+3. React Native Linear Gradient
+   https://github.com/react-native-community/react-native-linear-gradient
 
 
 
