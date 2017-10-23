@@ -15,6 +15,10 @@ fully dynamic and our backend team will replace firebase with our backend server
 1. React-native-elements
 https://react-native-training.github.io/react-native-elements/
 
+Please watch this CSS tutorial befoer work on React Native CSS
+It is slightly different from regular CSS or SCSS or LESS.
+https://www.youtube.com/watch?v=-xFF5KF-KpE&list=PL7D-0n1z1EbhkundIsOBaN_mlLvV4_hyO
+
 
 
 ## Functional Javascript Library
