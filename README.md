@@ -10,7 +10,7 @@ fully dynamic and our backend team will replace firebase with our backend server
 ## IOS design is available here
    
 
-## CSS
+## CSS (Hell)
 
 1. React-native-elements
 https://react-native-training.github.io/react-native-elements/
