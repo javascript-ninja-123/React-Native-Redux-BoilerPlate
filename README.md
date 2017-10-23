@@ -24,6 +24,9 @@ https://react-native-training.github.io/react-native-elements/
    
 4. Responsive Image
    https://www.npmjs.com/package/react-native-fit-image
+   
+5. Responsive Design 
+   https://hackernoon.com/responsive-uis-in-react-native-a406b5d6c36a
 
 
 
