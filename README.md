@@ -21,6 +21,9 @@ https://react-native-training.github.io/react-native-elements/
 
 3. React Native Linear Gradient
    https://github.com/react-native-community/react-native-linear-gradient
+   
+4. Responsive Image
+   https://www.npmjs.com/package/react-native-fit-image
 
 
 
