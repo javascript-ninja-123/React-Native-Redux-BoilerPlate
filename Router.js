@@ -6,11 +6,6 @@ const RouterComponent = () => {
   return(
     <Router sceneStyle={{backgroundColor:'white'}}>
       <Scene key="root" hideNavBar>
-        <Scene key='auth'>
-          <Scene key='login' component={} title='Login' initial={true}/>
-        </Scene>
-        <Scene key='main'>
-        </Scene>
       </Scene>
     </Router>
   )
