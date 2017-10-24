@@ -10,7 +10,7 @@ fully dynamic and our backend team will replace firebase with our backend server
 ## IOS design is available here
    
 
-## CSS (Hell)
+## CSS 
 
 1. React-native-elements
 https://react-native-training.github.io/react-native-elements/
@@ -34,6 +34,8 @@ https://react-native-training.github.io/react-native-elements/
 7. React Native CSS CheatSheet
    https://github.com/vhpoet/react-native-styling-cheat-sheet
 
+8. React Native modal
+   https://github.com/react-native-community/react-native-modal
 
 ## React Native Router
    https://github.com/aksonov/react-native-router-flux/blob/master/docs/API.md
