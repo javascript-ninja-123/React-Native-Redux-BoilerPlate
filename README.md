@@ -36,6 +36,9 @@ https://react-native-training.github.io/react-native-elements/
 
 8. React Native modal
    https://github.com/react-native-community/react-native-modal
+   
+9. React Select
+   https://github.com/gs-akhan/react-native-chooser
 
 ## React Native Router
    https://github.com/aksonov/react-native-router-flux/blob/master/docs/API.md
